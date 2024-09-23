@@ -68,12 +68,16 @@ h6 {
   isolation: isolate;
 }
 
-h1{
-  display:flex;
-  align-items: center;
+h1 {
+  display: flex;
   justify-content: center;
-  color:purple;
-  background-color: rgb(148, 90, 224);
+  background-color: plum;
+  color: purple;
+}
+
+body {
+  display: flex;
+  justify-content: center;
 }
 
 .container {
@@ -188,10 +192,10 @@ h1{
 }
 
 div {
-  background-color: rgb(180, 133, 241);
+  background-color: plum;
 }
 
 div {
-  border: 1px solid rgb(0, 26, 255);
+  border: 1px solid purple;
   box-sizing: border-box;
 }/*# sourceMappingURL=styles.css.map */
